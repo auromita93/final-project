@@ -1,0 +1,36 @@
+h1, p, h2,  h3{
+	text-align: center;
+	color: white;
+}
+.navbar-fixed{
+	color: lightslategray;
+}
+
+
+body{
+	background-image: url("https://i.ytimg.com/vi/nWgZWkZcRZ4/maxresdefault.jpg");
+	min-height: 100%;
+	
+}
+
+
+#textarea1, #textarea2{
+	color: white;
+}
+
+.card-panel{
+	float: right;
+    margin-right: -300px;
+	margin-top: -350px;
+
+	width: 300px;
+	height: 850px;
+	opacity: 0.85;
+	
+}
+
+
+.row{
+	align-content:center;
+	color:white;
+}
